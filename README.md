@@ -1,6 +1,6 @@
 ### Hi there 👋ben Büşra 
 ##  Yazılım Geliştirici
-# Bana  [bur)
+# 📫 bana nasıl ulaşırsınız. altunbusra32@gmail.com
 <!--
 
 **Busraltun258/Busraltun258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

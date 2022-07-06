@@ -1,6 +1,20 @@
 ### Hi there 👋ben Büşra 
 ##  Yazılım Geliştirici
-# 📫 bana nasıl ulaşırsınız. altunbusra32@gmail.com
+ 📫 bana nasıl ulaşırsınız:
+ altunbusra32@gmail.com
+
+[Linkedın](https://www.linkedin.com/in/b%C3%BC%C5%9Fraaltun32/)
+### Diller ve Araçlar:
+html
+css
+php
+java
+visual stdio code
+weka
+RapidMiner
+Netbeans Ide
+
+
 <!--
 
 **Busraltun258/Busraltun258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

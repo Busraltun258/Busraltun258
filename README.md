@@ -5,14 +5,14 @@
 
 [Linkedın](https://www.linkedin.com/in/b%C3%BC%C5%9Fraaltun32/)
 ### Diller ve Araçlar:
-html
-css
-php
-java
-visual stdio code
-weka
-RapidMiner
-Netbeans Ide
+* html
+* css
+* php
+* java
+* visual stdio code
+* weka
+* RapidMiner
+* Netbeans Ide
 
 
 <!--

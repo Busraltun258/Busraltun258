@@ -12,7 +12,7 @@
 * visual stdio code
 * weka
 * RapidMiner
-* Netbeans Ide
+* Netbeans IDE
 
 
 <!--

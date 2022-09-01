@@ -13,6 +13,8 @@
 * weka
 * RapidMiner
 * Netbeans IDE
+* jupyter Notebook
+* Intellij Ide
 
 
 <!--

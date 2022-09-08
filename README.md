@@ -7,7 +7,6 @@
 ### Diller ve Araçlar:
 * html
 * css
-* php
 * java
 * visual stdio code
 * weka

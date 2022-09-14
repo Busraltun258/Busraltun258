@@ -4,16 +4,7 @@
  altunbusra32@gmail.com
 
 [Linkedın](https://www.linkedin.com/in/b%C3%BC%C5%9Fraaltun32/)
-### Diller ve Araçlar:
-* html
-* css
-* java
-* visual stdio code
-* weka
-* RapidMiner
-* Netbeans IDE
-* jupyter Notebook
-* Intellij Ide
+
 
 
 <!--

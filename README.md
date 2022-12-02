@@ -4,6 +4,8 @@
  altunbusra32@gmail.com
 
 [Linkedın](https://www.linkedin.com/in/b%C3%BC%C5%9Fraaltun32/)
+
+
 [Medium](https://medium.com/@altunbusra32)
 
 

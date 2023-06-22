@@ -1,4 +1,3 @@
-### Hi there 👋ben Büşra 
 ##  Yazılım Geliştirici
  📫 bana nasıl ulaşırsınız:
  altunbusra32@gmail.com

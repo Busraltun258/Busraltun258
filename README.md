@@ -1,4 +1,3 @@
-##  Yazılım Geliştirici
  📫 bana nasıl ulaşırsınız:
  altunbusra32@gmail.com
 # 💫 About Me:

@@ -1,8 +1,7 @@
  📫 bana nasıl ulaşırsınız:
  altunbusra32@gmail.com
 # 💫 About Me:
-Software Developer
-
+Frontend Developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Büşraaltun32) 

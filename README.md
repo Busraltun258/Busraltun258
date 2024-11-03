@@ -1,5 +1,5 @@
  📫 bana nasıl ulaşırsınız:
- altunbusra32@gmail.com
+ busraaltun122@gmail.com
 # 💫 About Me:
 Frontend Developer
 
